@@ -1,16 +1,40 @@
 # Ahmed Abd Al Fattah Abd Al Sattar
-🔹 **Certified Full Stack Developer | Software Engineer**  
-🔹 Passionate about building scalable, high-performing applications  
-🔹 Expert in **Node.js**, **React.js**, **Next.js**, **NestJS**, **Prisma ORM**, **SQL**, **Docker**, **TypeScript**, **Python**, **SQLAlchemy**, and **C Programming Language**  
 
-Hi, I’m Ahmed! I’m a full-stack developer with a strong background in both frontend and backend technologies. I graduated from **ALX Africa (Holberton School)** and completed a **Udacity Full Stack Web Development** program, where I developed the skills to design, build, and maintain modern web applications.
+I’m Ahmed Abd Al Fattah Abd Al Sattar, a passionate **Full Stack Developer** with experience in building scalable and high-performing web applications. I specialize in **React.js**, **Next.js**, **Node.js**, **Typescript**, and I also have strong expertise in **Python**, **SQLAlchemy**, and **C Programming**.
 
-I specialize in developing robust, scalable applications using technologies like **Node.js**, **React.js**, **TypeScript**, and **GraphQL**. I also have hands-on experience with **Docker**, **CI/CD pipelines**, and deploying cloud-based applications. Additionally, I am proficient in **Python**, **SQLAlchemy**, and **C programming language**, which allow me to tackle a wide range of software engineering challenges.
+I recently completed the **ALX (Holberton School) Software Engineering Program**, a one-year intensive course, and I also hold a **Udacity Full Stack Web Developer Nanodegree**. Throughout my journey, I have worked on various projects that helped me hone my skills in both frontend and backend development, as well as microservice architectures.
 
-## Key Highlights:
-- **Final Project: Xchange** – A full-stack platform for users to request and offer services, built during my time at ALX and Udacity. While the repository is private, you can watch a **demo video** of the project here: [Xchange Demo](https://drive.google.com/file/d/14j2itbQoaBz1yn8eVJgmVeKBm_KsHWvJ/view?usp=drivesdk).  
-- Expertise in managing databases with **SQL**, **Prisma ORM**, and **NoSQL** technologies.  
-- Solid experience with **DevOps**, including server configuration, **NGINX**, **load balancing**, and **AWS**.  
-- Passion for optimizing code for performance and scalability in both **microservices** and **monolithic** architectures.
+## Xchange Project
 
-I’m constantly learning and staying up-to-date with the latest in web development technologies. Feel free to connect with me here on [LinkedIn](https://www.linkedin.com/in/ahmed-abd-al-fattah-3b371b23a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or on [Twitter](https://x.com/AhmedAbdAl11336). Let’s collaborate and build something amazing!
+One of my key accomplishments is the **Xchange** project, which I built as part of my final project during my ALX journey. **Xchange** is a **microservices-based architecture** that facilitates users in offering and requesting services, making it highly scalable and maintainable. 
+
+The backend of **Xchange** is built using **NestJS**, employing **GraphQL** for communication between services. The project utilizes **Prisma ORM** for database interactions and is designed to be modular, allowing for easy scaling as new services are added.
+
+Key Features:
+- **Microservices architecture**: Xchange is built using a **microservices-based architecture**, making it highly scalable and resilient.
+- **GraphQL**: Communication between microservices is managed through **GraphQL** to ensure flexible and efficient data retrieval.
+- **Prisma ORM**: The project uses **Prisma ORM** for smooth database integration and easy management of data models.
+- **Scalable and maintainable**: The architecture is designed for scalability, enabling easy updates and expansions of new features.
+
+Although **Xchange** is a private repository, I have created a **demo video** showcasing the project’s functionality and architecture. You can watch the demo here: [Xchange Project Demo](https://drive.google.com/file/d/14j2itbQoaBz1yn8eVJgmVeKBm_KsHWvJ/view?usp=drivesdk).
+
+---
+
+## My Skills:
+
+- **Frontend**: React.js, Next.js (SSR, SSG, CSR), Responsive Web Design, TypeScript
+- **Backend**: Node.js, NestJS (Microservices, GraphQL, REST APIs), Python, Flask
+- **Databases**: SQL, NoSQL, Prisma ORM, SQLAlchemy
+- **Real-Time Communication**: RabbitMQ, WebSocket
+- **DevOps & Cloud**: AWS, CircleCI, NGINX, Load Balancing, Server Configuration
+- **Methodologies**: Agile Workflow, GraphQL, Apollo GraphQL
+
+---
+
+### Contact Me:
+
+- **LinkedIn**: [Ahmed Abd Al Fattah](https://www.linkedin.com/in/ahmed-abd-al-fattah-3b371b23a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Twitter**: [@AhmedAbdAl11336](https://x.com/AhmedAbdAl11336)
+- **Email**: ahmedabdalfttah@outlook.com
+- **Phone**: +201024387240
+- **Location**: Al Mahallah al Kubrá, Al Gharbiyah, Egypt
