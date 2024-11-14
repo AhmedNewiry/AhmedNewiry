@@ -1,4 +1,12 @@
-# Ahmed Abd Al Fattah Abd Al Sattar
+<p align="center">
+  <b>Ahmed Abd Al Fattah Abd Al Sattar</b>
+</p>
+
+<p align="center">
+  Software Engineer | ALX Graduate (Holberton School) | Full Stack Developer certified by Udacity
+</p>
+
+---
 
 I’m Ahmed Abd Al Fattah Abd Al Sattar, a passionate **Full Stack Developer** with experience in building scalable and high-performing web applications. I specialize in **React.js**, **Next.js**, **Node.js**, **Typescript**, and I also have strong expertise in **Python**, **SQLAlchemy**, and **C Programming**.
 
