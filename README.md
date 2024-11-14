@@ -18,11 +18,12 @@ One of my key accomplishments is the **Xchange** project, which I built as part 
 
 The backend of **Xchange** is built using **NestJS**, employing **GraphQL** for communication between services. The project utilizes **Prisma ORM** for database interactions and is designed to be modular, allowing for easy scaling as new services are added.
 
-Key Features:
+### Key Features:
 - **Microservices architecture**: Xchange is built using a **microservices-based architecture**, making it highly scalable and resilient.
 - **GraphQL**: Communication between microservices is managed through **GraphQL** to ensure flexible and efficient data retrieval.
 - **Prisma ORM**: The project uses **Prisma ORM** for smooth database integration and easy management of data models.
 - **Scalable and maintainable**: The architecture is designed for scalability, enabling easy updates and expansions of new features.
+- **Notification Microservice**: The project uses **RabbitMQ** and **GraphQL WebSockets** to implement a **real-time notification microservice**, allowing users to receive updates about their service requests and offers.
 
 Although **Xchange** is a private repository, I have created a **demo video** showcasing the project’s functionality and architecture. You can watch the demo here: [Xchange Project Demo](https://drive.google.com/file/d/14j2itbQoaBz1yn8eVJgmVeKBm_KsHWvJ/view?usp=drivesdk).
 
@@ -33,7 +34,7 @@ Although **Xchange** is a private repository, I have created a **demo video** sh
 - **Frontend**: React.js, Next.js (SSR, SSG, CSR), Responsive Web Design, TypeScript
 - **Backend**: Node.js, NestJS (Microservices, GraphQL, REST APIs), Python, Flask
 - **Databases**: SQL, NoSQL, Prisma ORM, SQLAlchemy
-- **Real-Time Communication**: RabbitMQ, WebSocket
+- **Real-Time Communication**: RabbitMQ, GraphQL WebSockets
 - **DevOps & Cloud**: AWS, CircleCI, NGINX, Load Balancing, Server Configuration
 - **Methodologies**: Agile Workflow, GraphQL, Apollo GraphQL
 
