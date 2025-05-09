@@ -29,7 +29,7 @@ I'm a passionate **Full Stack Developer** from Egypt, specializing in **React.js
   <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions" alt="GitHub Actions" />
 </div>
 <p align="center">
-  Additional Skills: JavaScript, Flask, SQL, NoSQL, Prisma, SQLAlchemy, REST APIs, RabbitMQ, WebSockets, CircleCI, NGINX, Agile Workflow, Apollo GraphQL, Responsive Web Design, Load Balancing, Server Configuration
+  Additional Skills: JavaScript, Flask, SQL, NoSQL, Prisma, SQLAlchemy, REST APIs, RabbitMQ, WebSockets, CircleCI, NGINX,Elastic Stack Agile Workflow, Apollo GraphQL, Responsive Web Design, Load Balancing, Server Configuration
 </p>
 
 ---
